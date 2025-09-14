@@ -62,11 +62,4 @@ Models were assessed using R-squared, Mean Squared Error (MSE), Root Mean Square
 
 The Random Forest Regressor was identified as the best-performing model, achieving an R-squared score of 0.90. The project highlights the effectiveness of machine learning in forecasting solar power generation, providing valuable insights into the factors influencing solar energy production.
 
-## Future Work
 
-Future enhancements could include:
-* Implementing advanced neural network architectures (e.g., LSTM) for better time series forecasting.
-* Exploring additional weather features or external data sources to improve model accuracy.
-* Conducting sensitivity analysis to evaluate the impact of different features on model predictions.
-
-This technical report summarizes the methodologies and findings of the solar power forecasting project, showcasing the potential of machine learning to predict renewable energy generation. The complete code and detailed analysis can be found in the accompanying Jupyter notebook on GitHub.
